@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MattieD\\source\\repos\\circle-objects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0874AFE3-85CE-4375-A899-D9D13E3A9B8B}|circle-objects\\circle-objects.csproj|c:\\users\\mattied\\source\\repos\\circle-objects\\circle-objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0874AFE3-85CE-4375-A899-D9D13E3A9B8B}|circle-objects\\circle-objects.csproj|solutionrelative:circle-objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0874AFE3-85CE-4375-A899-D9D13E3A9B8B}|circle-objects\\circle-objects.csproj|c:\\users\\mattied\\source\\repos\\circle-objects\\circle-objects\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0874AFE3-85CE-4375-A899-D9D13E3A9B8B}|circle-objects\\circle-objects.csproj|solutionrelative:circle-objects\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MattieD\\source\\repos\\circle-objects\\circle-objects\\Program.cs",
+              "RelativeDocumentMoniker": "circle-objects\\Program.cs",
+              "ToolTip": "C:\\Users\\MattieD\\source\\repos\\circle-objects\\circle-objects\\Program.cs",
+              "RelativeToolTip": "circle-objects\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwEAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T02:03:44.67Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\MattieD\\source\\repos\\circle-objects\\circle-objects\\Circle.cs",
+              "RelativeDocumentMoniker": "circle-objects\\Circle.cs",
+              "ToolTip": "C:\\Users\\MattieD\\source\\repos\\circle-objects\\circle-objects\\Circle.cs",
+              "RelativeToolTip": "circle-objects\\Circle.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T02:23:51.585Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

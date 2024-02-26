@@ -1,0 +1,14 @@
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\bin\Debug\net8.0\circle-objects.exe
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\bin\Debug\net8.0\circle-objects.deps.json
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\bin\Debug\net8.0\circle-objects.runtimeconfig.json
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\bin\Debug\net8.0\circle-objects.dll
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\bin\Debug\net8.0\circle-objects.pdb
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\obj\Debug\net8.0\circle-objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\obj\Debug\net8.0\circle-objects.AssemblyInfoInputs.cache
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\obj\Debug\net8.0\circle-objects.AssemblyInfo.cs
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\obj\Debug\net8.0\circle-objects.csproj.CoreCompileInputs.cache
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\obj\Debug\net8.0\circle-objects.dll
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\obj\Debug\net8.0\refint\circle-objects.dll
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\obj\Debug\net8.0\circle-objects.pdb
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\obj\Debug\net8.0\circle-objects.genruntimeconfig.cache
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\obj\Debug\net8.0\ref\circle-objects.dll
