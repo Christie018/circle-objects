@@ -45,7 +45,6 @@ double area = circle.CalculateArea();
 
 // Display the valid radius entered by the user
 Console.WriteLine($"Valid radius entered: {radius}");
-
 Console.WriteLine($"Diameter: {diameter}");
 Console.WriteLine($"Circumference: {circumference}");
 Console.WriteLine($"Area: {area}");
@@ -60,13 +59,17 @@ do
         Console.WriteLine("The circle is magically growing.");
 
         circle.Grow();
+        diameter = circle.CalculateDiameter();
+        circumference = circle.CalculateCircumference();
+        area = circle.CalculateArea();
+
         Console.WriteLine($"Diameter: {diameter}");
         Console.WriteLine($"Circumference: {circumference}");
         Console.WriteLine($"Area: {area}");
-        Console.WriteLine($"Radius {circle.GetRadius}");
+        Console.WriteLine($"Radius {circle.GetRadius()}");
     }
 }
 while (grow.ToLower().Trim() == "y");
 
-Console.WriteLine($"The circle's final radius is {circle.GetRadius}");
+Console.WriteLine($"The circle's final radius is {circle.GetRadius()}");
 

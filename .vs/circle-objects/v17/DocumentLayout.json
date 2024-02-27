@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MattieD\\source\\repos\\circle-objects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0874AFE3-85CE-4375-A899-D9D13E3A9B8B}|circle-objects\\circle-objects.csproj|c:\\users\\mattied\\source\\repos\\circle-objects\\circle-objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0874AFE3-85CE-4375-A899-D9D13E3A9B8B}|circle-objects\\circle-objects.csproj|solutionrelative:circle-objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0874AFE3-85CE-4375-A899-D9D13E3A9B8B}|circle-objects\\circle-objects.csproj|c:\\users\\mattied\\source\\repos\\circle-objects\\circle-objects\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0874AFE3-85CE-4375-A899-D9D13E3A9B8B}|circle-objects\\circle-objects.csproj|solutionrelative:circle-objects\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0874AFE3-85CE-4375-A899-D9D13E3A9B8B}|circle-objects\\circle-objects.csproj|c:\\users\\mattied\\source\\repos\\circle-objects\\circle-objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0874AFE3-85CE-4375-A899-D9D13E3A9B8B}|circle-objects\\circle-objects.csproj|solutionrelative:circle-objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MattieD\\source\\repos\\circle-objects\\circle-objects\\Program.cs",
               "RelativeDocumentMoniker": "circle-objects\\Program.cs",
               "ToolTip": "C:\\Users\\MattieD\\source\\repos\\circle-objects\\circle-objects\\Program.cs",
               "RelativeToolTip": "circle-objects\\Program.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAqwEAAAAAnAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwEQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-26T02:03:44.67Z",
               "IsPinned": true,
@@ -36,13 +36,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\MattieD\\source\\repos\\circle-objects\\circle-objects\\Circle.cs",
               "RelativeDocumentMoniker": "circle-objects\\Circle.cs",
               "ToolTip": "C:\\Users\\MattieD\\source\\repos\\circle-objects\\circle-objects\\Circle.cs",
               "RelativeToolTip": "circle-objects\\Circle.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBgAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-26T02:23:51.585Z",
               "IsPinned": true,

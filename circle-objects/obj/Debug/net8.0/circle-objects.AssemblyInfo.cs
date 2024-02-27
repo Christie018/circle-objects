@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("circle-objects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5881eac31e72aa4edb4ba4d587787553869ce8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("circle-objects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("circle-objects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ C:\Users\MattieD\source\repos\circle-objects\circle-objects\obj\Debug\net8.0\ref
 C:\Users\MattieD\source\repos\circle-objects\circle-objects\obj\Debug\net8.0\circle-objects.pdb
 C:\Users\MattieD\source\repos\circle-objects\circle-objects\obj\Debug\net8.0\circle-objects.genruntimeconfig.cache
 C:\Users\MattieD\source\repos\circle-objects\circle-objects\obj\Debug\net8.0\ref\circle-objects.dll
+C:\Users\MattieD\source\repos\circle-objects\circle-objects\obj\Debug\net8.0\circle-objects.sourcelink.json

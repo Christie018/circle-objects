@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace circle_objects
 {
-    internal class Circle
+    public class Circle
     {
         private double radius { get; set; }
 
@@ -17,6 +17,7 @@ namespace circle_objects
         double diameter;
         double area;
         double circumference;
+
         public double CalculateDiameter()
         {
             diameter = radius * 2;
@@ -25,13 +26,13 @@ namespace circle_objects
 
         public double CalculateCircumference()
         {
-            circumference = radius * 3.14;
+            circumference = radius * 2 * Math.PI;
             return circumference;
         }
 
         public double CalculateArea()
         {
-            area = (radius * radius) * 3.14;
+            area = radius * radius * Math.PI;
             return area;
         }
 
